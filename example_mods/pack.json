@@ -1,6 +1,6 @@
 {
-	"name": "Name",
-	"description": "Description",
-	"restart":false,
-	"color": [170, 0, 255]
+	"name": "the spongebob parody mod",
+	"description": "are you ready kids?",
+	"restart":true,
+	"color": [255, 213, 60]
 }
