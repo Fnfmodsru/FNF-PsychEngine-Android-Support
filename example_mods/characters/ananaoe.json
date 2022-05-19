@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				213,
+				-247
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				151,
+				-278
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				15
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-132
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-243
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				140,
+				-33
+			],
+			"anim": "boo",
+			"fps": 24,
+			"name": "boo",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ananaoe",
+	"position": [
+		80,
+		250
+	],
+	"healthicon": "icon-ananaoe",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		195,
+		15
+	],
+	"camera_position": [
+		-100,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

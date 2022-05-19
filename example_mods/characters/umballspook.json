@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-54,
+				-217
+			],
+			"loop": false,
+			"anim": "shoot",
+			"fps": 24,
+			"name": "shoot",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-23,
+				-245
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-40,
+				-245
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-40,
+				-231
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-40,
+				-246
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-251
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/umballspook",
+	"position": [
+		-90,
+		-170
+	],
+	"healthicon": "icon-umballspook",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		202,
+		246
+	],
+	"camera_position": [
+		0,
+		290
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
