@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Arwin_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nottalk0000" x="0" y="0" width="306" height="427"/>
+	<SubTexture name="talk0000" x="306" y="0" width="307" height="297" frameX="-3" frameY="-61" frameWidth="310" frameHeight="395"/>
+	<SubTexture name="talk0001" x="613" y="0" width="306" height="370" frameX="-1" frameY="-25" frameWidth="310" frameHeight="395"/>
+	<SubTexture name="talk0002" x="0" y="427" width="253" height="294" frameX="-28" frameY="-64" frameWidth="310" frameHeight="395"/>
+	<SubTexture name="talk0003" x="253" y="427" width="302" height="387" frameX="0" frameY="0" frameWidth="310" frameHeight="395"/>
+	<SubTexture name="talk0004" x="0" y="427" width="253" height="294" frameX="-28" frameY="-64" frameWidth="310" frameHeight="395"/>
+	<SubTexture name="talk0005" x="613" y="0" width="306" height="370" frameX="-1" frameY="-25" frameWidth="310" frameHeight="395"/>
+</TextureAtlas>
