@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"banana",
+			"ananaoe",
+			[
+		          255,
+		          195,
+		          15
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "i'm a banana!!!!",
+	"weekName": "school",
+	"freeplayColor": [
+		255,
+		195,
+		15
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
